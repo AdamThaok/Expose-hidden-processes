@@ -83,13 +83,8 @@ AdvancedProcessDetector/
 │   ├── driver.h                 # Driver header definitions
 │   └── AdvancedProcessDetector.vcxproj
 ├── usermode/
-│   ├── simulator.c              # Usermode simulation app
+│   ├── main.c              # Usermode simulation app
 │   └── ProcessDetectorSim.vcxproj
-├── include/
-│   └── shared_structures.h      # Shared data structures
-├── docs/
-│   ├── TECHNICAL.md            # Technical documentation
-│   └── INSTALLATION.md        # Installation guide
 └── README.md
 ```
 
