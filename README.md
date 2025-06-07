@@ -216,11 +216,6 @@ Processes are marked suspicious if:
 - ✅ System administration and monitoring
 - ✅ Academic purposes
 
-**DO NOT USE FOR**:
-- ❌ Malicious purposes
-- ❌ Unauthorized system access
-- ❌ Bypassing security measures
-- ❌ Any illegal activities
 
 ### Driver Signing
 
@@ -276,9 +271,6 @@ signtool sign /v /s My /n "Certificate Name" driver.sys
 - Update documentation for new features
 - Test on multiple Windows versions
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔗 Related Projects
 
