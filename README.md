@@ -294,7 +294,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Adam Thaok** - [YourGitHub](https://github.com/AdamThaok)
+- **Adam Thaok** - [GitHub](https://github.com/AdamThaok)
 
 ## 🆘 Support
 
